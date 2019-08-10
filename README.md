@@ -1,4 +1,4 @@
-# ImageJ
+# ImageJ Tutorial
 Supplementary for my ImageJ Tutorial
 
 Including macros code, installation package and so on.

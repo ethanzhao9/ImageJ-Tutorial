@@ -11,7 +11,6 @@ macro "Display_Pixel_Values" {
 		ShowValue(xbase, ybase, width, height, "Green");
 		ShowValue(xbase, ybase, width, height, "Blue");
 		print("This an RGB image.");}
-	}
 	
 	function ShowValue(xbase, ybase, width, height, channel) {	
 		for (i = 0; i < width; i++) {	

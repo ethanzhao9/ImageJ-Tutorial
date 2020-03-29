@@ -1,7 +1,8 @@
 # ImageJ Tutorial
 ![badge1](https://img.shields.io/badge/platform-win--64-green)
-![badge2](https://img.shields.io/badge/language-Chinese-red)
-![badge3](https://img.shields.io/badge/software-ImageJ%2FFiji-blue)
+![badge2](https://img.shields.io/badge/condition-updating-green)
+![badge3](https://img.shields.io/badge/language-Chinese-red)
+![badge4](https://img.shields.io/badge/software-ImageJ%2FFiji-blue)
 
 Supplementary for my ImageJ Tutorial: 
 

@@ -1,4 +1,8 @@
 # ImageJ Tutorial
+![badge1](https://img.shields.io/badge/platform-win--64-green)
+![badge2](https://img.shields.io/badge/language-Chinese-red)
+![badge3](https://img.shields.io/badge/software-ImageJ%2FFiji-blue)
+
 Supplementary for my ImageJ Tutorial: 
 
 <div><img width="400 height="150" src="专栏图片.png"/></div>

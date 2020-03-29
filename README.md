@@ -1,7 +1,7 @@
 # ImageJ Tutorial
 Supplementary for my ImageJ Tutorial: 
 
-<div align=center><img width="400 height="150" src="专栏图片.png"/></div>
+<img width="400 height="150" src="专栏图片.png"/></div>
 
 [ImageJ实用教程](https://zhuanlan.zhihu.com/c_1069243926476673024)
 

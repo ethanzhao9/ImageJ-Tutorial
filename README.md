@@ -12,7 +12,7 @@ Supplementary for my ImageJ Tutorial:
 
 [ImageJ开发教程](https://zhuanlan.zhihu.com/c_1101076075773370368)
 
-Including:
+This repository contains:
 1. Macro codes(Located in Develop tutorial folder)
 2. Textbooks
 3. Plugins files

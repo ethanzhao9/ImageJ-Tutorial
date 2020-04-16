@@ -8,9 +8,9 @@ macro "Auto_Measure_Count" {
 	function Count_Num(title) {
 		selectWindow(title);
 		setAutoThreshold("Default dark"); 
-		run("Convert to Mask"); 
-		run("Watershed");
+		run("Convert to Mask");
 		run("Fill Holes");
+		run("Watershed");
 		run("Analyze Particles...", "size=100-Infinity show=Overlay exclude summarize");
 		close(title);
 	}

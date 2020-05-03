@@ -20,7 +20,7 @@ macro "fill_ROI" {
 			setThreshold(value, value); //Threshold to select certain pixel value
 			run("Create Selection");
 			if (selectionType() ==-1) { //If there is on selection
-				print("There is no" + label +" in " + i +" slice.");
+				print("There is no " + label +" in " + i +" slice.");
 			}
 			else { 
 				roi_name = label+"_"+i;
